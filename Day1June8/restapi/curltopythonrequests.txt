@@ -1,0 +1,20 @@
+https://curl.trillworks.com/
+
+Check this website if you want to convert a curl to a code to send a request to the url(python:requests)
+
+
+Input:
+curl command
+
+curl -u "username" https://api.github.com
+
+
+Output:
+Python requests
+
+import requests
+
+response = requests.get('https://api.github.com/', auth=('username', ''))
+
+
+

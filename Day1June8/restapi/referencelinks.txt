@@ -1,0 +1,15 @@
+API Analogy:
+https://www.youtube.com/watch?v=s7wmiS2mSXY
+
+REST API:
+https://www.youtube.com/watch?v=rtWH70_MMHM&list=TLPQMDcwNjIwMjCLWt0ScB9w-A&index=1
+https://www.youtube.com/watch?v=Q-BpqyOT3a8&list=TLPQMDcwNjIwMjCLWt0ScB9w-A&index=4
+
+
+HTTP
+https://www.youtube.com/watch?v=iYM2zFP3Zn0&list=TLPQMDcwNjIwMjCLWt0ScB9w-A&index=3
+
+
+REST vs Graph QL
+https://www.youtube.com/watch?v=PeAOEAmR0D0
+

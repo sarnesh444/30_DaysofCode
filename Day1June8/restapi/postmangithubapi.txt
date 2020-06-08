@@ -1,0 +1,63 @@
+CRUD			HTTP METHODS
+
+CREATE			POST
+READ			GET
+UPDATE			PUT
+DELETE			DELETE
+
+USING POSTMAN TO MAKE REQUESTS TO GITHUB API
+
+
+
+
+1.Download and install postman from https://www.postman.com/
+
+2.GET Request:
+For github API
+
+REQUEST:
+https://api.github.com/users
+
+RESPONSE:
+JSON RESPONSE
+sample
+{
+        "login": "mojombo",
+        "id": 1,
+        "node_id": "MDQ6VXNlcjE=",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/1?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mojombo",
+        "html_url": "https://github.com/mojombo",
+        "followers_url": "https://api.github.com/users/mojombo/followers",
+        "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mojombo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mojombo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mojombo/orgs",
+        "repos_url": "https://api.github.com/users/mojombo/repos",
+        "events_url": "https://api.github.com/users/mojombo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mojombo/received_events",
+        "type": "User",
+        "site_admin": false 
+    },
+
+
+
+3.making get request for particular user
+https://api.github.com/users/:username
+
+
+
+4.There is a certain limit on the number of requests you can make for a given time threshold
+
+You can fix that by
+a)Navigate to developer options in settings from your github account
+b)Create a new OAuth application by filling the details like Application name Homepage URL Application description Authorization callback URL
+c)fill the details to generate client id and client secret
+d)navigate to "https://developer.github.com/v3" to get the cURL for OAuth application
+e)https://api.github.com/users/:username?client_id=xxxx&client_secret=yyyy send get request via postman at this URL even after the limit has exceeded one can send request
+
+
+5.making request to get repos of a particular user
+https://api.github.com/users/:username/repos
