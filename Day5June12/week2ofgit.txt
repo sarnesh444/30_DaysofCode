@@ -1,0 +1,9 @@
+Today I have completed the 2nd week of the course
+Outcomes:
+* Rollbacks
+* Branches
+* Merging
+* Handling merge conflicts
+
+Navigate here for notes 
+https://github.com/sarnesh444/GitByGoogleCoursera/tree/master/week2
