@@ -1,0 +1,10 @@
+VERSION CONTROL SYSTEM 
+	
+VCS being an important tool to survive in the industry....
+
+I wanted to learn the basics about git so I took up the "Git by Google course" on coursera.
+
+Todays Learnings are included here(Notes for reference)
+https://github.com/sarnesh444/GitByGoogleCoursera/tree/master/week1
+
+I have worked with putty to connect to a Linux VM and solve the graded tool. 
