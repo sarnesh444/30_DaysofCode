@@ -1,0 +1,10 @@
+Today I have completed the 3rd week of the course
+Outcomes:
+* interaction with github
+* git pull workflow
+* git push 
+* solving merge conflicts when pushing
+* rebasing
+
+Navigate here for notes 
+https://github.com/sarnesh444/GitByGoogleCoursera/tree/master/week3

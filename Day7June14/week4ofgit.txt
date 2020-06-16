@@ -1,0 +1,9 @@
+Today I have completed the 4th week of the course
+Outcomes:
+* Squashing
+* Pull requests
+* Code reviews
+* Bug/Issue tracker
+
+Navigate here for notes 
+https://github.com/sarnesh444/GitByGoogleCoursera/tree/master/week4
