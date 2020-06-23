@@ -1,0 +1,19 @@
+Today I have started with Django from a course on Udemy
+Here are my learnings
+* The importance of virtual environments and how to create one using conda
+
+* Django Project commands
+
+* Django App commands
+
+* MVT Architecture
+
+* URLMappings
+
+* Django Template Language DTL aka template tagging
+
+* Connecting Static Files
+
+* Setting up path for template folder
+
+You can find the course material,code and my learnings here https://github.com/sarnesh444/Django/tree/master/14-Django_Level_One
