@@ -1,0 +1,22 @@
+Here are my learnings for today I have completed the Django Level Two of the course
+
+* MTV paradigm
+
+* Process of model creation
+
+* Commands to make migrations to the created model
+
+* Registering the models with the admin to view them via an interface
+
+* Creating super user so as to have access to the admin panel interface
+
+* Commands to add records via shell
+
+* Using faker a python package to populate data
+
+* Interacting the database models via admin interface 
+
+* CRUD operations of records via admin interface 
+
+
+You can find the course material,code and my learnings here https://github.com/sarnesh444/Django/tree/master/15-Django_Level_Two
