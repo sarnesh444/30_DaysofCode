@@ -1,0 +1,25 @@
+Here are my learnings for today I have completed the Django Level Two of the course
+
+* HTTP: get/post methods
+
+* Forms
+
+* Models creating django models for dB
+
+* Registering the models with the admin to view them via an interface
+
+* Creating super user so as to have access to the admin panel interface
+
+* Forms vs Django Forms
+
+* Creating Django forms from Django models
+
+* Importance of csrf_token
+
+* Defining function based views to return django forms created from models and render them to templates
+
+* URL mappings for app/urls.py and project/urls.py
+
+
+
+You can find the course material,code and my learnings here https://github.com/sarnesh444/Django/tree/master/16-Django_Level_Three
