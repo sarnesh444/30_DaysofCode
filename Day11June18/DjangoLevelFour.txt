@@ -1,0 +1,20 @@
+Here are my learnings for today I have completed the Django Level Four of the course
+
+* DTL:Django template tagging
+
+* Similarities and differences between Jinja2 and DTL
+
+* Comparision between {{ }} and {% %}
+
+* Template inheritance,inheritance in HTML
+
+* Filters using Pipe(|)
+
+* Relative URLs and mappings
+
+* Setting up apps.py and settings.py
+
+* Loading static files
+
+
+You can find the course material,code and my learnings here https://github.com/sarnesh444/Django/tree/master/17-Django_Level_Four
