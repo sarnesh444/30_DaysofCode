@@ -1,0 +1,16 @@
+Here are my learnings for today I have completed the Django Level Five of the course
+
+* Creating user model from Django admin and also 
+
+* User registration
+	* Registration of user using ORM
+	* The form to take the user input is generated from a model
+	* The model is created using admin-user and developer-defined 
+
+* User login
+	* Verfying the record of the user
+		* authenticating user via authenticate predef fun from django.contrib.auth 
+		* logging in the user via login predef fun from django.contrib.auth
+		* logging out the user via logout predef fun from django.contrib.auth
+
+You can find the course material,code and my learnings here https://github.com/sarnesh444/Django/tree/master/18-Django_Level_Five
