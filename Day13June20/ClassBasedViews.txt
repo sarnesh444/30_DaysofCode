@@ -1,0 +1,24 @@
+Here are my learnings for today I have completed the Django Class Based Views of the course
+
+* Creating class based views instead of function based views
+
+* advantages of class based views over function based views
+
+* rendering template from a class based view
+
+* Detail view to return the details of a particular model from the class based view inherting DetailView from django.utils
+
+* List view to return the list of records of a particular model from the class based view inherting ListView from django.utils
+
+* Create/saving input details from a django form to the model which in turn commits to the dB by inherting the createview 
+
+* Read the details from a model 
+
+* Update the current record in the dB by inherting updateview
+
+* Deleting a record from the dB by inherting the deleteview
+
+* Mix-ins instead of function decorators
+
+
+You can find the course material,code and my learnings here https://github.com/sarnesh444/Django/tree/master/19-Advanced_Django_CBV
