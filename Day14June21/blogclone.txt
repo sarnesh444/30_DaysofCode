@@ -1,0 +1,30 @@
+Here are my learnings for today I have completed the Blog clone of the course
+
+*Objective: Creating a blog for the user to perform CRUD operations
+
+* Should be a superuser to signup
+
+* login to create a post
+
+* adding the medium editor eg.bold,h1,h2
+
+* edit the post to be visible in the list view
+
+* time stamp for the date of creation and publishing
+
+* Until the post is published it stays in the drafts section
+
+* Once the post is published it can be moved to the list view,day of creation need not be equal to the day of publishing
+
+* Update the post by making changes
+
+* Author of the post(superuser who created the post)can delete the post
+
+* Without logging in anybody can comment on the post
+
+* Author can choose to approve or delete the comment
+
+* Only if the author approves the comment it will be visible in the list view
+
+
+You can find the course material,code and my learnings here https://github.com/sarnesh444/Django/tree/master/20-Blog_Clone_Project
