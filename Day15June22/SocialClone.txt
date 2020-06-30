@@ -1,0 +1,29 @@
+Here are my learnings for today I have completed a Social Website clone from the course
+
+*Objective: Creating a social media clone for space enthusiasts who can perform CRUD operations
+
+* Sign up
+
+* login to create a post/join a group
+
+* consists of groups and users,a user can join any group
+
+* user should be logged in to join any group
+
+* edit the post to be visible in the list view
+
+* time stamp for the date of creation and publishing
+
+* you can only leave the group after you join
+
+* user member can create posts for that group
+
+* user can also create a group
+
+* Once the post is published it can be moved to the list view
+
+* Update the post by making changes
+
+* Author of the post(superuser who created the post)can delete the post
+
+You can find the course material,code and my learnings here https://github.com/sarnesh444/Django/tree/master/21-Social_Clone_Project
