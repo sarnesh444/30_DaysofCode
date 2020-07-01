@@ -1,0 +1,5 @@
+Here are my learnings for today I have completed Customizing the django admin section of the course
+
+The section is about tailoring the django admin interface to enterprise needs.
+
+You can find the course material,code and my learnings here https://github.com/sarnesh444/Django/blob/master/customizing_django_admin.txt
