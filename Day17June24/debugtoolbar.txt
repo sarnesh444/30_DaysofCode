@@ -1,0 +1,5 @@
+Here are my learnings for today I have completed Django-Debug Toobar section of the course
+
+The section is about tailoring the django debug toolbar interface to enterprise needs and also to have a better understanding of the various aspects of the project via a clean GUI.
+
+You can find the course material,code and my learnings here https://github.com/sarnesh444/Django/blob/master/debugtoolbar.txt
