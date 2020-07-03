@@ -1,0 +1,5 @@
+TEXTRACT
+
+I have started working on creating a chrome extension for OCR directly from videos.
+
+Check the progress here https://github.com/sarnesh444/OCR
