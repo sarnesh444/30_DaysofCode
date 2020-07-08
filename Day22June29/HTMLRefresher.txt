@@ -1,0 +1,8 @@
+HTML Refresher
+
+Today I have completed the HTML tutorial from FreeCodeCamp youtube lectures.
+This is a refresher for my basics before getting into React.
+
+Find out more here
+
+https://github.com/sarnesh444/BASICS_Refresher
