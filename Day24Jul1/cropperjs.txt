@@ -1,0 +1,7 @@
+CropperJS
+
+Today I wanted to explore the possiblity of cropping images for building my OCR chrome extension.
+
+Find out more here
+
+https://github.com/sarnesh444/CropperJS
